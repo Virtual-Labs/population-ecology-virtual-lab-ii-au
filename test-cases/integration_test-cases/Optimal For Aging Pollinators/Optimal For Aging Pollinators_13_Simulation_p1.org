@@ -1,0 +1,38 @@
+* Author: Nihanth
+* Date Created: 21 Jan 2016
+* Environment
+  - OS: Windows 7, Linux
+  - Browsers: Firefox,Chrome
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:8GBRAM , 
+  - Processor:i5
+  - Data : 5,16,52
+
+* Objective
+  - To simulate the Optimal For Aging Pollinators experiment
+
+* Pre conditions
+  - Refer to first test case [[https://github.com/Virtual-Labs/population-ecology-virtual-lab-ii-au/blob/master/test-cases/integration_test-cases/Optimal For Aging Pollinators/Optimal For Aging Pollinators_01_Usability_smk.org][Optimal For Aging Pollinators_01_Usability_smk.org]]
+
+* Post conditions
+  - Nil
+* Test Steps
+  1. Click on the simulation link 
+  2. It should re-direct to the simulation page
+  3. Click on the simulator link 
+  4. A new tab will be opened with simulation proces
+  5. Using the scrollbar select the  values for variables like Posotion of flowers,Necter Delay(p),eb,tb.
+  6. Click on more variables button and assign the values for variables like ew,tw,ef,tfee,te and position and then click on the close button
+  7. Click on the Plot Total Energy button to start the simulation process
+  8. To restart the simulation process, click on the reset button
+
+* Expected result
+  1. Simulation page should be opened
+  2. A simulator link should be present
+  3. Content should be present with no distortions and Junk charactersthe 
+  4. When we click on the Plot Total Energy button  result Graphs should be displayed on the screen
+  5. When we click on the reset button, the graphs displayed on the screen should be erased and It should redirect to the simulation home  page
+
+* Review/comments
+
+
