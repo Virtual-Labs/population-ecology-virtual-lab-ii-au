@@ -1,8 +1,8 @@
 #/bin/bash
-# Backup Script for the Population Ecology Lab II
+# Backup Script for the Population Ecology Lab I
 
 # Backup Script takes the backup of the data used by the lab.
-# Since there is no data being used by Population Ecology Lab II
+# Since there is no data being used by Population Ecology Lab I
 # the script does nothing. 
 
 # Usage of the script

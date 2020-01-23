@@ -26,7 +26,7 @@
                         "office_number": ""
                     }, 
                     "department": "CREATE", 
-                    "institute": "Amrita", 
+                    "institute": "Amrita University", 
                     "name": "Rathish G", 
                     "organization": "", 
                     "role": "Project Manager", 
@@ -41,7 +41,7 @@
                         "office_number": ""
                     }, 
                     "department": "CREATE", 
-                    "institute": "Amrita", 
+                    "institute": "Amrita University", 
                     "name": "Sreejith S R", 
                     "organization": "", 
                     "role": "Lab Developer", 
@@ -51,13 +51,13 @@
                 {
                     "contact": {
                         "alternate_email": "", 
-                        "email": "praveens@am.amrita.edu", 
+                        "email": "anishasl@am.amrita.edu", 
                         "mobile_number": "", 
                         "office_number": ""
                     }, 
                     "department": "CREATE", 
-                    "institute": "Amrita", 
-                    "name": "Praveen S", 
+                    "institute": "Amrita University", 
+                    "name": "Anisha S L", 
                     "organization": "", 
                     "role": "Lab Developer", 
                     "title": "", 
@@ -71,7 +71,7 @@
                         "office_number": ""
                     }, 
                     "department": "CREATE", 
-                    "institute": "Amrita", 
+                    "institute": "Amrita University", 
                     "name": "Sruthi Mangala", 
                     "organization": "", 
                     "role": "Lab Developer", 
@@ -86,7 +86,7 @@
                         "office_number": ""
                     }, 
                     "department": "CREATE", 
-                    "institute": "Amrita", 
+                    "institute": "Amrita University", 
                     "name": "Anitha B", 
                     "organization": "", 
                     "role": "Lab Developer", 
@@ -95,11 +95,11 @@
                 }
             ], 
             "discipline": [
-                "Biotechnology and Biomedical Engineering"
+                "Physical Science"
             ], 
-            "id": "poe", 
-            "integration_level": 5, 
-            "name": "Population ecology Virtual Lab II", 
+            "id": "emm", 
+            "integration_level": 6, 
+            "name": "Electricity & Magnetism Virtual Lab", 
             "server-side": true, 
             "status": "Released", 
             "type": ""

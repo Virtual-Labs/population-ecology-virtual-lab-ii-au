@@ -1,0 +1,100 @@
+/**
+	*Description:This is for put style on canvas contents and controls
+	*Color Reference:
+	*dark grey: #6f6f6f
+	*gray: #626262
+	*white: #ffffff	
+*/
+
+/** The following are used for canvas */
+
+* {
+	margin:0;
+	padding:0;
+}
+
+#hp1 {
+	width: 40%;
+	float: right;
+	font-size: 12px;
+}
+#hp2 {
+	width: 40%;
+	float: right;
+	font-size: 12px;
+}
+#ep1 {
+	width: 40%;
+	float: right;
+	font-size: 12px;
+}
+#ep2 {
+	width: 40%;
+	float: right;
+	font-size: 12px;
+}
+#es {
+	width: 40%;
+	float: right;
+	font-size: 12px;
+}
+#eh {
+	width: 40%;
+	float: right;
+	font-size: 12px;
+}
+#ap2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: 600;
+	color: #626262;
+	padding:0px 10px 5px 30px; 
+}
+#GraphArea {
+	width: 95%;
+	height: 89%;
+	margin:-7px 0px 0px 15px;
+}
+#top {
+	margin:5px;
+	position:relative;
+	font-family:Verdana sans-serif;
+	font-size:15px; 
+	color:#6f6f6f;
+}
+#left {
+	margin:0px;
+	position:relative;
+	left:-49%;
+	top:43%;
+	-webkit-transform: rotate(-90deg);
+	-moz-transform: rotate(-90deg);
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:13px; 
+	color:#6f6f6f;
+}
+#bottom {
+	background-color: #ffffff;
+	padding: 0px;
+	margin: 0px;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 13px;
+	color: #6f6f6f;
+	width: 205px;
+	left: 174px;
+	position: absolute;
+}
+
+.title {
+	padding: 1px 0px 0px 10px;
+}
+
+#radioBtns {
+	width: 47%;
+	padding: 4px 0px 5px 37px;
+}
+
+.submitBtns {
+	width: 43%;
+    	margin: -1px 0px 0px 33px;
+}
